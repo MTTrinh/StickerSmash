@@ -12,7 +12,6 @@ export default function CircleButton({ onPress }: Props) {
                 <MaterialIcons name="add" size={38} color="#25292e" />
             </Pressable>
         </View>
-
     )
 }
 
